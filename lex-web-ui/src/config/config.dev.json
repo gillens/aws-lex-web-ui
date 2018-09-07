@@ -4,17 +4,17 @@
   },
   "region": "us-west-2",
   "lex": {
-    "botName": "OrderFlowers",
-    "initialText": "You can ask me for help ordering flowers. Just type \"order flowers\" or click on the mic and say it.",
-    "initialSpeechInstruction": "Say 'Order Flowers' to get started."
+    "botName": "EngineeringBot",
+    "initialText": "You can ask me about EECS topics such as printing and lab help. Type \"help\" for a list of available topics.",
+    "initialSpeechInstruction": ""
   },
   "polly": {
     "voiceId": "Salli"
   },
   "ui": {
     "parentOrigin": "http://localhost:8080",
-    "pageTitle": "Order Flowers Bot",
-    "toolbarTitle": "Order Flowers"
+    "pageTitle": "Engineering Bot",
+    "toolbarTitle": "Engineering Bot"
   },
   "recorder": {
     "preset": "speech_recognition"
