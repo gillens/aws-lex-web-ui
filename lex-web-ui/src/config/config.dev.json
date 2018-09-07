@@ -1,9 +1,10 @@
 {
   "cognito": {
-    "poolId": ""
+    "poolId": "us-west-2:c2e4d904-9cb7-4432-b764-9133feff6d94"
   },
+  "region": "us-west-2",
   "lex": {
-    "botName": "WebUiOrderFlowers",
+    "botName": "OrderFlowers",
     "initialText": "You can ask me for help ordering flowers. Just type \"order flowers\" or click on the mic and say it.",
     "initialSpeechInstruction": "Say 'Order Flowers' to get started."
   },
