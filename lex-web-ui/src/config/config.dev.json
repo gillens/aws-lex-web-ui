@@ -6,15 +6,18 @@
   "lex": {
     "botName": "EngineeringBot",
     "initialText": "You can ask me about EECS topics such as printing and lab help. Type \"help\" for a list of available topics.",
-    "initialSpeechInstruction": ""
+    "initialSpeechInstruction": "",
+    "botAlias": "Prod"
   },
   "polly": {
     "voiceId": "Salli"
   },
   "ui": {
     "parentOrigin": "http://localhost:8080",
-    "pageTitle": "Engineering Bot",
-    "toolbarTitle": "Engineering Bot"
+    "toolbarTitle": "Engineering Bot",
+    "toolbarColor": "orange",
+    "showErrorDetails": "true",
+    "stipTagsFromBotMessages": "false"
   },
   "recorder": {
     "preset": "speech_recognition"
